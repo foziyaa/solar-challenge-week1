@@ -2,7 +2,7 @@
 
 import streamlit as st
 import pandas as pd
-from app.utils import generate_dummy_data
+from utils import generate_dummy_data
 
 
 # Set Streamlit page configuration
