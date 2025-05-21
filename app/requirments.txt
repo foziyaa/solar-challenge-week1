@@ -1,1 +1,7 @@
-from utils import generate_dummy_data, plot_bar_chart, plot_line_chart
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+streamlit
+
