@@ -2,7 +2,8 @@
 
 import streamlit as st
 import pandas as pd
-from app.utils import generate_dummy_data, plot_bar_chart, plot_line_chart
+from utils import generate_dummy_data, plot_bar_chart, plot_line_chart
+
 
 # Set Streamlit page configuration
 st.set_page_config(
