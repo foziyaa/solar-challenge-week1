@@ -1,4 +1,4 @@
-# Solar Energy EDA & Dashboard – Week 0
+# Solar Energy EDA & Dashboard Week 0
 
 ## 📦 Project Structure
 # Clone repo
